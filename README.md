@@ -37,6 +37,7 @@ This repository goes beyond simple link aggregation. It provides a comprehensive
 | **⚙️ [Systems](./categories/systems-infra.md)** | DevOps, Linux, Low-Level Programming. | [Explore ➔](./categories/systems-infra.md) |
 | **🛠️ [Dev Tools](./categories/dev-tools.md)** | Modern Terminals, IDEs, Workflow Optimization. | [Explore ➔](./categories/dev-tools.md) |
 | **📚 [Comp Sci](./categories/computer-science.md)** | Algorithms, Data Structures, Mathematics. | [Explore ➔](./categories/computer-science.md) |
+| **🎢 [Just for Fun](./categories/fun.md)** | Terminal magic, easter eggs, and cool scripts. | [Explore ➔](./categories/fun.md) |
 
 ### 🧠 The Vibe Coding & Prompt Library
 *Real-world AI prompting strategies for complex system design. Stop fighting the AI; learn to direct it.*
