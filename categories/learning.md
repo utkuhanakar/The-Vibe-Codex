@@ -1,22 +1,16 @@
-# 📖 Learning Resources
+# 📚 Learning Resources
 
-## 🔥 Top Picks
+### 🗺 Path Comparison
+| Resource | Goal | Duration | Difficulty |
+| :--- | :--- | :--- | :--- |
+| **OSSU CS** | Full CS Degree | 2+ Years | Hard |
+| **Build Your Own X** | Practical Mastery | Varies | Medium |
+| **Developer Roadmap** | Career Guidance | Continuous | Easy |
 
-* https://github.com/ossu/computer-science
-  → Complete computer science curriculum
+### 🔥 Top Picks
+- [ossu/computer-science](https://github.com/ossu/computer-science) — Path to a free self-taught education in Computer Science!
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) — Master programming by recreating your favorite technologies from scratch.
 
-* https://github.com/codecrafters-io/build-your-own-x
-  → Learn by building real projects
-
----
-
-## 📦 All Repositories
-
-* https://github.com/jwasham/coding-interview-university
-  → Complete guide to preparing for coding interviews
-
-* https://github.com/freeCodeCamp/freeCodeCamp
-  → Learn to code for free with projects
-
-* https://github.com/EbookFoundation/free-programming-books
-  → Massive collection of free programming books
+### 📖 References
+- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) — Freely available programming books in many languages.
+- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) — Interactive roadmaps, guides and other educational content.
