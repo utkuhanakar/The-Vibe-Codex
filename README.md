@@ -1,16 +1,17 @@
-🚀 Awesome GitHub Repositories
+# 🚀 Awesome GitHub Repositories
+A curated collection of professional tools, frameworks, and learning resources.
 
-A curated collection of useful and high-quality GitHub repositories across various domains.
+## 📊 Comparative Analysis
+*Detailed breakdowns to help you choose the right tool:*
+- [🤖 AI Frameworks: Which one do you need?](./comparisons/ai-frameworks.md)
+- [🛠 Dev Tools: Performance & Productivity](./comparisons/dev-tools.md)
 
-📚 Categories
-
-- 🤖 AI → "AI Repositories" (./categories/ai.md)
-- 🎨 Design → "Design Resources" (./categories/design.md)
-- 🛠 Tools → "Developer Tools" (./categories/tools.md)
-- 📖 Learning → "Learning Resources" (./categories/learning.md)
-- ⚡ Productivity → "Productivity Tools" (./categories/productivity.md)
-- 🎮 Fun → "Fun Projects" (./categories/fun.md)
-
+## 🧭 Navigation
+- 🤖 [AI Repositories](./categories/ai.md)
+- 🎨 [Design Resources](./categories/design.md)
+- 🛠 [Developer Tools](./categories/tools.md)
+- 📚 [Learning Resources](./categories/learning.md)
+- 🧠 [Decision Guides (Meta)](./meta/how-to-choose.md)
 ---
 
 ## ⭐ Featured Repositories
