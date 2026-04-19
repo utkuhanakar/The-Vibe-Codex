@@ -1,11 +1,17 @@
-# 🛠 Dev Tools: Performance & Productivity
+# 🛠️ Developer Tools & Workflows
 
-| Legacy Tool | Modern Alternative | Why Switch? | Performance |
-| :--- | :--- | :--- | :--- |
-| `cat` | **bat** | Syntax highlighting | ⭐⭐⭐⭐ |
-| `grep` | **ripgrep (rg)** | Blazing fast search | ⭐⭐⭐⭐⭐ |
-| `top` | **htop / btop** | Visual system monitor | ⭐⭐⭐⭐ |
-| `vim` | **neovim** | Lua support & Speed | ⭐⭐⭐⭐⭐ |
+A curated list of modern tools designed to optimize your workflow, from AI-powered IDEs to Rust-based terminal commands.
 
-### 🚀 Recommendation
-If you are doing **Vibe Coding**, prioritize terminal-based tools that offer CLI flags. It makes it easier for AI agents (like Cursor or LLMs) to interact with your environment.
+## 💻 Code Editors & IDEs
+
+- [Cursor](https://github.com/getcursor/cursor) ![AI](https://img.shields.io/badge/AI-Vibe_Coding-00F7FF?style=flat-square)
+  - The AI-first code editor. The absolute core of a modern Vibe Coding workflow.
+- [Neovim](https://github.com/neovim/neovim) ![Terminal](https://img.shields.io/badge/Editor-Terminal-green?style=flat-square)
+  - Vim-fork focused on extensibility and usability. For developers who want to stay entirely on the keyboard.
+
+## ⚡ Modern Terminal (Rust Rewrites)
+
+- [Bat](https://github.com/sharkdp/bat) ![CLI](https://img.shields.io/badge/CLI-Rust-orange?style=flat-square)
+  - A `cat` clone with syntax highlighting and Git integration.
+- [Zoxide](https://github.com/ajeetdsouza/zoxide) ![CLI](https://img.shields.io/badge/CLI-Rust-orange?style=flat-square)
+  - A smarter `cd` command. Remembers which directories you use most frequently.
