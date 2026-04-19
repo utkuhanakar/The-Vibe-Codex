@@ -1,16 +1,17 @@
-# 📚 Learning Resources
+# 📚 Computer Science & Fundamentals
 
-### 🗺 Path Comparison
-| Resource | Goal | Duration | Difficulty |
-| :--- | :--- | :--- | :--- |
-| **OSSU CS** | Full CS Degree | 2+ Years | Hard |
-| **Build Your Own X** | Practical Mastery | Varies | Medium |
-| **Developer Roadmap** | Career Guidance | Continuous | Easy |
+A curated collection of resources for mastering the core principles of software engineering, from algorithms to system design.
 
-### 🔥 Top Picks
-- [ossu/computer-science](https://github.com/ossu/computer-science) — Path to a free self-taught education in Computer Science!
-- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) — Master programming by recreating your favorite technologies from scratch.
+## 🎓 Curriculums & Paths
 
-### 📖 References
-- [free-programming-books](https://github.com/EbookFoundation/free-programming-books) — Freely available programming books in many languages.
-- [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) — Interactive roadmaps, guides and other educational content.
+- [OSSU Computer Science](https://github.com/ossu/computer-science) ![Free](https://img.shields.io/badge/Free-Success?style=flat-square) ![Path](https://img.shields.io/badge/Learning_Path-Complete-purple?style=flat-square)
+  - A complete, free self-taught education in Computer Science using online materials.
+- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap) ![Guide](https://img.shields.io/badge/Guide-Visual-blue?style=flat-square)
+  - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+
+## 🧮 Algorithms & Data Structures
+
+- [The Algorithms - Python](https://github.com/TheAlgorithms/Python) ![Language](https://img.shields.io/badge/Language-Python-blue?style=flat-square&logo=python)
+  - All algorithms implemented in Python. Excellent for studying core logic.
+- [The Algorithms - C](https://github.com/TheAlgorithms/C) ![Language](https://img.shields.io/badge/Language-C-black?style=flat-square&logo=c)
+  - Foundational algorithms implemented in C. Crucial for understanding memory management.
