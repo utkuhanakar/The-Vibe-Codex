@@ -13,16 +13,16 @@ A curated collection of useful and high-quality GitHub repositories across vario
 
 ---
 
-⭐ Featured Repositories
+## ⭐ Featured Repositories
 
-- https://github.com/openai/openai-cookbook
-  → Real-world examples for using AI effectively
+* https://github.com/openai/openai-cookbook
+  → Practical AI examples
 
-- https://github.com/ossu/computer-science
-  → Complete computer science curriculum
+* https://github.com/ossu/computer-science
+  → Full CS curriculum
 
-- https://github.com/codecrafters-io/build-your-own-x
-  → Learn by building real projects
+* https://github.com/neovim/neovim
+  → Powerful developer tool
 
 ---
 
