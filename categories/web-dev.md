@@ -18,7 +18,7 @@ From understanding the DOM to scaling applications with TypeScript and React. Th
 
 ## 🛡️ Type Safety (TypeScript)
 
-- [TypeScript Tutorial](https://github.com/microsoft/TypeScript-Node-Starter) ![Official](https://img.shields.io/badge/Official-Microsoft-black?style=flat-square)
+- [TypeScript Tutorial](https://github.com/remix-run/remix) ![Official](https://img.shields.io/badge/Official-Microsoft-black?style=flat-square)
   - A starter template for TypeScript and Node with a detailed README describing how to use the two together.
 - [Type Challenges](https://github.com/type-challenges/type-challenges) ![Practice](https://img.shields.io/badge/Practice-Challenge-red?style=flat-square)
   - Collection of TypeScript type challenges with online judge.
