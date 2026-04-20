@@ -1,4 +1,4 @@
-# 🚀 The Vibe Codex: Engineering & System Architecture
+# The Vibe Codex: Engineering & System Architecture
 
 [![Curated](https://img.shields.io/badge/Curated-High_Quality-8A2BE2?style=for-the-badge)](#)
 [![Vibe](https://img.shields.io/badge/Vibe_Coding-Enabled-00F7FF?style=for-the-badge)](#)
