@@ -11,7 +11,7 @@ This repository goes beyond simple link aggregation. It provides a comprehensive
 ---
 
 ## 🗺️ Repository Architecture
-
+ 
 <pre>
 📦 The-Vibe-Codex
  ┣ 📂 categories       ➔ Ecosystem lists (AI, Game Dev, Web, etc.)
